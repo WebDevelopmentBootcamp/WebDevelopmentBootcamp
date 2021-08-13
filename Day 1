@@ -1,0 +1,24 @@
+<!-- This is a simple HTML Document -->
+
+<!-- The <!DOCTYPE html> declaration defines that this document is an HTML5 document -->
+<!DOCTYPE html>
+<!-- The html element is the root element of an HTML page -->
+<html lang="en" dir="ltr">
+
+<!-- The head element contains meta information about the HTML page -->
+<head>
+  <meta charset="utf-8">
+  <!--The title element specifies a title for the page. You may change it -->
+  <title>Web Development Bootcamp Day 1</title> <!--Change the text inside of the <title> element to whatever you want -->
+</head>
+
+<!-- The body is a container for all the visible contents on the page -->
+<body>
+  <!--The h1 element defines a large heading. You may change it -->
+  <h1>Hello everyone!</h1>
+  <!--The p element defines a paragraph. You may change it -->
+  <p>Look at the next slide for a Day 1 Challenge!</p>
+  <p>This is a new paragraph</p>
+</body>
+
+</html>
